@@ -2,7 +2,7 @@
 from dataclass import dataclass
 import torch
 from torch import nn
-from torch.nn  import Functional as F
+import torch.nn.functional as F
 import inspect
 
 
